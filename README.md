@@ -28,3 +28,16 @@ You can use a long Computer Science poem as input for test: `./a.out < cs_poetry
 ## Exercise 6-5
 You can test by giving the source code as input: `./a.out < preprocessor.c`
 
+## Exercise 7-1
+You can test with the text file as input: `./a.out  tolower < lines.txt` (or `toupper` for upper case conversion)
+
+## Exercise 7-5
+I opted for a little unusual solution. The result is only displayed when requested via the character 'p' (print).
+
+## Exercise 7-7
+You can use one or all the three files for testing: file1.txt, file2.txt, file3.txt
+
+## Exercise 7-8
+You'll find two Computer Science poems in the folder.
+
+

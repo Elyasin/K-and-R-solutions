@@ -1,0 +1,47 @@
+Basic Principles
+
+Coupling, Cohesion
+Antagonistic forces
+Tradeoffs to be made.
+
+Chaining
+
+Solvers in a chain
+Requests passed one to the next
+Only one reacts.
+
+The Stand-in
+
+Looks like the real thing
+But really hides it from view
+Protect, remote, smart.
+
+Sharing
+
+Actions are the same 
+Processes come together
+Continue apart.
+
+Timed Systems
+
+Time passes freely
+Ticks never inconsistent
+The system runs true.
+
+Real-Time Systems
+
+Time is essential
+On time, not late, not early
+Fail predictably.
+
+Object Behavior
+
+States and transitions
+Statechart defines behavior
+Or hide it in code.
+
+A Watchdog
+
+Waiting for the strokes
+Stroke, something is working, stroke
+No stroke comes, woof, woof.
