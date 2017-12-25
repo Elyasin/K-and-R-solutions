@@ -40,4 +40,20 @@ You can use one or all the three files for testing: file1.txt, file2.txt, file3.
 ## Exercise 7-8
 You'll find two Computer Science poems in the folder.
 
+## Exercise 8-1
+You can use the lorem_ipsum.txt file and compare the system's `cat` with this program.
+
+## Exercise 8-2
+Using bit fields results in a larger source code size; bit fields operations are more explicit.
+Compiled code size was equal on my architecture.
+The run time for the code using bit fields was slower.
+
+You can use the `time` program on for timing and test, e.g. `/usr/bin/time a.out`. (The file `lorem_ipsum.txt` is read in the program.)
+
+##Exercise 8-3
+The program reads the file `lorem_ipsum.txt` and creates a file name `result.txt`.
+
+##Exercise 8-4
+The program opens the file `lorem_ipsum.txt`, uses `fseek` to _fast forward_ close to the end of file and prints the content until the end of file.
+
 
