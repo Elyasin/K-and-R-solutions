@@ -50,10 +50,10 @@ The run time for the code using bit fields was slower.
 
 You can use the `time` program on for timing and test, e.g. `/usr/bin/time a.out`. (The file `lorem_ipsum.txt` is read in the program.)
 
-##Exercise 8-3
+## Exercise 8-3
 The program reads the file `lorem_ipsum.txt` and creates a file name `result.txt`.
 
-##Exercise 8-4
+## Exercise 8-4
 The program opens the file `lorem_ipsum.txt`, uses `fseek` to _fast forward_ close to the end of file and prints the content until the end of file.
 
 
